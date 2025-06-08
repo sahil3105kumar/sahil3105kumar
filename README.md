@@ -2,7 +2,7 @@
 - 👀 I’m interested in competative Programming and development.
 - 🌱 I’m currently learning web development and Android development.
 - 💞️ I’m looking to collaborate on open source contributions.
-- 📫 you can rach me at itssahilhere31@gmail.com
+- 📫 you can reach me at itssahilhere31@gmail.com
 
 <!---
 sahil3105kumar/sahil3105kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
