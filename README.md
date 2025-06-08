@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil3105kumar
-- 👀 I’m interested in competative Programming and web development.
-- 🌱 I’m currently learning web development from Angela yu.
+- 👀 I’m interested in competative Programming and development.
+- 🌱 I’m currently learning web development and Android development.
 - 💞️ I’m looking to collaborate on open source contributions.
 - 📫 you can rach me at itssahilhere31@gmail.com
 
