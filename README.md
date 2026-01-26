@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahil
-- 👀 I’m interested in competative Programming and development.
+- 👀 I’m interested in competitive Programming and development.
 - 🌱 I’m currently learning web development and Android development.
 - 💞️ I’m looking to collaborate on open source contributions.
 - 📫 you can reach me at itssahilhere31@gmail.com
