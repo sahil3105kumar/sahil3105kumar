@@ -21,7 +21,7 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 | :--- | :--- |
 | **Codeforces** | Max 1239 (Current goal: 1600+) |
 | **CodeChef** | 3-Star |
-| **Atcode**   | 500+
+| **Atcoder**   | 500+
 
 ---
 
