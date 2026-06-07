@@ -25,14 +25,6 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil3105kumar&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3105kumar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📂 Current Focus
 * 🏗️ **Building:** A Digital Legal Assistant focused on Indian Law and OCR integration.
 * 🏗️ **Building:** News Classifier — multi-source scraping, TF-IDF + GridSearchCV, 91.7% accuracy on AG News ([repo](https://github.com/sahil3105kumar/NEWS_CLASSIFIER)
