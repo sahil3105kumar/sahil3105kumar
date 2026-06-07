@@ -8,8 +8,8 @@ I'm a Computer Science student with a passion for building scalable systems and 
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python (Development), C++ (Competitive Programming)
-* **AI/ML:** PyTorch, Scikit-learn, OCR Pipelines, LLM Integration
-* **Systems:** Distributed Systems, Linux (Ubuntu), Docker
+* **AI/ML:** PyTorch, Scikit-learn,MLflow, DVC, Huggungace Datasets, LLM Integration
+* **Systems:** Distributed Systems, Linux (Ubuntu)
 * **Development:** Git/GitHub, REST APIs, Project-based learning
 
 ---
@@ -21,7 +21,7 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 | :--- | :--- |
 | **Codeforces** | Max 1239 (Current goal: 1600+) |
 | **CodeChef** | 3-Star |
-| **Atcoder**   | 500+
+| **Atcoder**   | 500+ |
 
 ---
 
@@ -35,7 +35,8 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 ### 📂 Current Focus
 * 🏗️ **Building:** A Digital Legal Assistant focused on Indian Law and OCR integration.
-* 🌱 **Learning:** Building end to end systems.
+* 🏗️ **Building:** News Classifier — multi-source scraping, TF-IDF + GridSearchCV, 91.7% accuracy on AG News ([repo](https://github.com/sahil3105kumar/NEWS_CLASSIFIER)
+* 🌱 **Learning:** End-to-end MLOps --- pipelines,experiment tracking, model versioning with DVC + MLflow
 * 🤝 **Collaboration:** Making my self ready for open source contributions.
 
 ---
