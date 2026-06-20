@@ -35,7 +35,7 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 ### 📫 Let's Connect!
 * **Email:** [itssahilhere31@gmail.com](mailto:itssahilhere31@gmail.com)
-* **LinkedIn:** [linkedin.com/in/sahil-kumar](https://www.linkedin.com/in/your-profile-link) 
+* **LinkedIn:** [linkedin.com/in/sahil-kumar](https://www.linkedin.com/in/sahil-kumar31/) 
 
 ---
 <p align="center">
