@@ -1,17 +1,33 @@
 # 👋 Hi, I'm Sahil Kumar
 
-### 🚀 Software Developer | Competitive Programmer | AI/ML Enthusiast
-I'm a Computer Science student with a passion for building scalable systems and solving complex algorithmic challenges. Currently, I'm deep-diving into **building end to end system** and preparing for **Open Source** contributions.
+### 🚀 Software Developer | AI Systems Engineer | Competitive Programmer
 
+I'm a Computer Science student passionate about designing intelligent software systems that solve real-world problems. I enjoy building production-oriented applications at the intersection of AI, backend engineering, and distributed systems—from document intelligence platforms to autonomous AI assistants. Alongside development, I actively practice competitive programming to strengthen my problem-solving and algorithmic thinking.
 ---
+## 💡 What I Enjoy Building
 
-### 🛠️ Tech Stack & Tools
+- 🤖 AI Systems & Intelligent Agents
+- 📄 Document Intelligence & OCR Pipelines
+- ⚖️ Legal Technology
+- ⚙️ Distributed Backend Systems
+- 🧩 Developer Productivity Tools
 
-* **Languages:** Python (Development), C++ (Competitive Programming)
-* **AI/ML:** PyTorch, Scikit-learn,MLflow, DVC, Huggungace Datasets, LLM Integration
-* **Systems:** Distributed Systems, Linux (Ubuntu)
-* **Development:** Git/GitHub, REST APIs, Project-based learning
+### 🛠️ Tech Stack
 
+**Languages**
+- Python • C++ • JavaScript
+
+**AI / Machine Learning**
+- PyTorch • Hugging Face • Scikit-learn • DVC • MLflow
+
+**Backend & Infrastructure**
+- FastAPI • REST APIs • Celery • Docker • Qdrant
+
+**Databases**
+- PostgreSQL • SQLite • Qdrant
+
+**Systems**
+- Linux (Ubuntu) • Git • GitHub
 ---
 
 ### 🏆 Competitive Programming
@@ -25,12 +41,17 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 ---
 
-### 📂 Current Focus
-* 🏗️ **Building:** A Digital Legal Assistant focused on Indian Law and OCR integration.
-* 🏗️ **Building:** News Classifier — multi-source scraping, TF-IDF + GridSearchCV, 91.7% accuracy on AG News ([repo](https://github.com/sahil3105kumar/NEWS_CLASSIFIER)
-* 🌱 **Learning:** End-to-end MLOps --- pipelines,experiment tracking, model versioning with DVC + MLflow
-* 🤝 **Collaboration:** Making my self ready for open source contributions.
+### 🚀 Current Focus
 
+* ⚖️ **NyayAI** — Building an AI-powered Legal Intelligence & Document Audit System for Indian law, combining OCR, transformer models, retrieval, and rule-based reasoning.
+
+* 📑 **Mike** — Developing a document intelligence assistant that reviews large collections of documents, identifies inconsistencies and loopholes, and provides actionable insights and recommendations.
+
+* 🕶️ **Shadow** — Designing a privacy-first personal AI system capable of remembering context, reasoning across information, and automating everyday workflows through local intelligence.
+
+* 🌱 **Currently Learning** — Distributed Systems, AI Engineering, and scalable backend architecture.
+
+* 🤝 **Goal** — Contributing to impactful open-source projects while building production-grade AI systems.
 ---
 
 ### 📊 GitHub Stats
@@ -45,10 +66,10 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 </p>
 ---
 
-### 📫 Let's Connect!
-* **Email:** [itssahilhere31@gmail.com](mailto:itssahilhere31@gmail.com)
-* **LinkedIn:** [linkedin.com/in/sahil-kumar](https://www.linkedin.com/in/sahil-kumar31/) 
+### 📫 Connect With Me
 
+- 📧 **Email:** itssahilhere31@gmail.com
+- 💼 **LinkedIn:** linkedin.com/in/sahil-kumar31
 ---
 <p align="center">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
