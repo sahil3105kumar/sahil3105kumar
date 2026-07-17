@@ -36,14 +36,13 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil3105kumar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3105kumar&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahil3105kumar&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahil3105kumar&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahil3105kumar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahil3105kumar&theme=github_dark" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
