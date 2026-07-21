@@ -45,7 +45,7 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 * ⚖️ **NyayAI** — Building an AI-powered Legal Intelligence & Document Audit System for Indian law, combining OCR, transformer models, retrieval, and rule-based reasoning.
 
-* 📑 **Mike** — Developing a document intelligence assistant that reviews large collections of documents, identifies inconsistencies and loopholes, and provides actionable insights and recommendations.
+* 📑 **Associate** — Developing a document intelligence assistant that reviews large collections of documents, identifies inconsistencies and loopholes, and provides actionable insights and recommendations.
 
 * 🕶️ **Shadow** — Designing a privacy-first personal AI system capable of remembering context, reasoning across information, and automating everyday workflows through local intelligence.
 
@@ -70,7 +70,7 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 - 📧 **Email:** itssahilhere31@gmail.com
 - 💼 **LinkedIn:** linkedin.com/in/sahil-kumar31
----
-<p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</p>
+
+----
+
+
