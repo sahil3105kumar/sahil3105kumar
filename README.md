@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Sahil%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Systems%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58E6C2&center=true&vCenter=true&width=700&lines=Building+AI+systems+%2B+intelligent+agents;Document+intelligence+%26+OCR+pipelines;Legal+tech+meets+applied+ML;Chasing+Accepted+on+Codeforces+%26+CodeChef" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=58E6C2&center=true&vCenter=true&width=700&lines=Building+AI+systems+%2B+intelligent+agents;Document+intelligence+%26+OCR+pipelines;Retail+%26+business+analytics+with+SQL+%2B+Power+BI;Legal+tech+meets+applied+ML;Chasing+Accepted+on+Codeforces+%26+CodeChef" alt="Typing SVG" />
 
 <br/>
 
@@ -35,11 +35,11 @@
 ```yaml
 name:            Sahil Kumar
 role:            B.Tech Student — Computer Science, IIITDM Jabalpur
-focus:           AI Systems · Document Intelligence · Distributed Backends
-building:        NyayAI · Associate · Shadow
+focus:           AI Systems · Document Intelligence · Business Analytics · Distributed Backends
+building:        RetailIQ · NyayAI · Associate · Shadow
 learning:        Distributed Systems · AI Engineering · Scalable Backend Architecture
 practicing:      Competitive Programming (CF · CodeChef · LeetCode · AtCoder)
-ask_me_about:    FastAPI · Qdrant · RAG pipelines · OCR · agentic AI systems
+ask_me_about:    SQL & KPI design · Power BI dashboards · FastAPI · Qdrant · RAG pipelines · OCR · agentic AI systems
 ```
 
 </td>
@@ -55,6 +55,7 @@ ask_me_about:    FastAPI · Qdrant · RAG pipelines · OCR · agentic AI systems
 
 ## 💡 What I Enjoy Building
 
+- 📊 Business Intelligence & Data Analytics (SQL, KPI systems, dashboards)
 - 🤖 AI Systems & Intelligent Agents
 - 📄 Document Intelligence & OCR Pipelines
 - ⚖️ Legal Technology
@@ -69,6 +70,14 @@ ask_me_about:    FastAPI · Qdrant · RAG pipelines · OCR · agentic AI systems
 <tr>
 <td width="18%" align="right"><b>Languages</b></td>
 <td width="82%"><img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark"/></td>
+</tr>
+<tr>
+<td align="right"><b>Data & Business Analytics</b></td>
+<td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/KPI_Design-58E6C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL-2c5364?style=flat-square"/></td>
 </tr>
 <tr>
 <td align="right"><b>AI / ML</b></td>
@@ -119,6 +128,8 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 </td>
 <td width="92%">
 
+**📊 RetailIQ** — An end-to-end retail business intelligence platform on the Olist e-commerce dataset: Python ETL, a reusable KPI engine, CTE-based SQL analytics, and an executive Power BI dashboard blueprint with leadership-ready insights.
+
 **⚖️ NyayAI** — Building an AI-powered Legal Intelligence & Document Audit System for Indian law, combining OCR, transformer models, retrieval, and rule-based reasoning.
 
 **📑 Associate** — Developing a document intelligence assistant that reviews large collections of documents, identifies inconsistencies and loopholes, and provides actionable insights and recommendations.
@@ -127,7 +138,7 @@ I love the thrill of the "Accepted" verdict. You can find me honing my logic on 
 
 **🌱 Currently Learning** — Distributed Systems, AI Engineering, and scalable backend architecture.
 
-**🤝 Goal** — Contributing to impactful open-source projects while building production-grade AI systems.
+**🤝 Goal** — Contributing to impactful open-source projects while building production-grade AI and analytics systems.
 
 </td>
 </tr>
